@@ -48,7 +48,7 @@ def scan_udp(host, port):
 if __name__ == '__main__':
     
     os.system("clear && figlet Port Scan | lolcat")
-    print(Fore.LIGHTGREEN_EX+Style.BRIGHT+"Made by Ousmane\n"+Fore.WHITE+Style.NORMAL)
+    print(Fore.LIGHTGREEN_EX+Style.BRIGHT+"Made by OusH4ck\n"+Fore.WHITE+Style.NORMAL)
     
     host = input(Fore.MAGENTA+Style.BRIGHT+"Enter the host to scan: "+Fore.WHITE+Style.NORMAL)
     print("\n")
